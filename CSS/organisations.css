@@ -1,0 +1,22 @@
+.paragraph {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: justify;
+    font-size: 2vh;
+}
+
+.carouselBorder {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: black solid 1px;
+    padding: 5px;
+    margin-bottom: 30px;
+}
+
+.source {
+    font-size: 1.5vh;
+}
